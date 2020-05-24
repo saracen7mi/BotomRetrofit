@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/photo"
+    android:icon="@drawable/ic_add_a_photo_black_24dp"
+    android:title="PHOTO"/>
+
+    <item android:id="@+id/posts"
+        android:icon="@drawable/ic_local_post_office_black_24dp"
+        android:title="POSTS"/>
+
+    <item android:id="@+id/users"
+        android:icon="@drawable/ic_verified_user_black_24dp"
+        android:title="USERS"/>
+
+    <item android:id="@+id/tabs"
+        android:icon="@drawable/ic_tab_black_24dp"
+        android:title="TABS"/>
+
+
+
+</menu>
